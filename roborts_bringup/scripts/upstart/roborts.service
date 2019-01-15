@@ -5,7 +5,7 @@ After=network-online.target
 User=root
 Type=simple
 Restart=on-failure
-ExecStart=/home/dji/roborts-start.sh
+ExecStart=/home/nvidia/roborts-start.sh
 
 [Install]
 WantedBy=multi-user.target

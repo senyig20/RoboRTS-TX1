@@ -1,9 +1,9 @@
 #!/bin/bash
 echo " "
-echo "Start to copy script files to /home/dji"
+echo "Start to copy script files to /home/nvidia"
 echo ""
-cp `rospack find roborts_bringup`/scripts/upstart/roborts-start.sh /home/dji
-cp `rospack find roborts_bringup`/scripts/upstart/max_performance.sh /home/dji
+cp `rospack find roborts_bringup`/scripts/upstart/roborts-start.sh /home/nvidia
+cp `rospack find roborts_bringup`/scripts/upstart/max_performance.sh /home/nvidia
 echo " "
 echo "Start to copy service files to /lib/systemd/system/"
 echo ""
