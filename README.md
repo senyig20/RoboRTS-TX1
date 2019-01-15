@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/RoboMaster/RoboRTS.svg?branch=master)](https://travis-ci.org/RoboMaster/RoboRTS)
 [![Gitter](https://badges.gitter.im/RoboMaster/RoboRTS.svg)](https://gitter.im/RoboMaster/RoboRTS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+## Warning
+This repository may/may not be updated. The current version of RoboRTS used in this repository is V1.0, published on 15th of Jan, 2019. This is an enthusiast repository, and I'm not responsible for any damages it may cause, including brain meltdown!
 ## Introduction
 
 <img src="images/robot.jpg" style="zoom:100%;display: inline-block; float:middle"/>
